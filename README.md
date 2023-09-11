@@ -27,7 +27,7 @@
 
 <br> 
 
-### :family: 누구나 Contributor가 될 수 있습니다!
+### 🙋‍♂️ 누구나 Contributor가 될 수 있습니다!
 <br> 
 <br> 
 <a href="https://github.com/jaeweon/SNS_Hub_DEV/graphs/contributors">
