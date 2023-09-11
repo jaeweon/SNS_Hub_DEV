@@ -31,8 +31,19 @@
 <a href="https://github.com/gyoogle/tech-interview-for-developer/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jaeweon/SNS_Hub_DEV" />
 </a>
+<br>
 
+## 📌 Rules for commit message
+`        날짜    [주제]  내용 상태  `
+<br>
+`ex) 2023-09-01 [Java] Class Add `
+<br>
+`ex) 2023-09-05 [Java] Class Delete `
+<br>
+`ex) 2023-09-11 [Java] Class Update `
 
+<br>
+<br>
 <br>
 
 ## 📌 Language
