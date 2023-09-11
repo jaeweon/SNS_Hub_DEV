@@ -12,11 +12,13 @@
 [![Star on GitHub](https://img.shields.io/github/stars/jaeweon/Question_Hub_For_DEV.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/stargazers)
 [![Fork on GitHub](https://img.shields.io/github/forks/jaeweon/Question_Hub_For_DEV.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/network/members)
 <br>
+<br>
 
 ## 📣: 소개
 >**다른 개발자들의 삶은 어떤지 볼 수 있습니다**     .  
->평소에 궁금했던 직군, 내 직군을 궁금했던 분들  
->예비 개발자분들을 위한 정보 창구
+>**평소에 궁금했던 직군, 내 직군을 궁금했던 분들**  
+>**예비 개발자분들을 위한 정보 창구**
+<br>
 
 # Project's aim
 ### For 개발에 관해 궁금한 점이 있는 모든 사람
@@ -44,6 +46,16 @@
 - ### C
 
 - ### C++
+
+- ### PHP
+
+- ### Swift
+
+- ### Go
+
+- ### Lua
+
+- ### Ruby
 
 
 ## 👨🏻‍⚕️ Job's
@@ -79,5 +91,7 @@
 - ### 블록체인 개발자 (Blockchain Developer)
     
 - ### 인공지능 엔지니어 (AI Engineer)
+
+- ### ERP 개발자 (ERP Developer)
     
 <br>
