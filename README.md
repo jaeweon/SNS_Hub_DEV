@@ -29,7 +29,7 @@
 ### :family: 누구나 Contributor가 될 수 있습니다!
 <br> 
 <br> 
-<a href="https://github.com/gyoogle/tech-interview-for-developer/graphs/contributors">
+<a href="https://github.com/jaeweon/SNS_Hub_DEV/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jaeweon/SNS_Hub_DEV" />
 </a>
 <br>
