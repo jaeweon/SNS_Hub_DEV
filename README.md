@@ -116,7 +116,7 @@
 
 ## 📚️ Study Group
 
-- ### [스터디 그룹 모집은 여기서](https://github.com/jaeweon/SNS_Hub_DEV/blob/master/Study_Group/recruitment)
+- ### [스터디 그룹 모집은 여기서](https://github.com/jaeweon/SNS_Hub_DEV/blob/master/Study_Group/recruitment.md)
 
 - ### ex) 웹 개발 스터디 그룹 모집 합니다 (3 / 6)
 
