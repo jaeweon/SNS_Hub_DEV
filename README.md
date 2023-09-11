@@ -14,6 +14,7 @@
 <br>
 <br>
 
+
 ## 📣: 소개
 >**다른 개발자들의 삶은 어떤지 볼 수 있습니다**     .  
 >**평소에 궁금했던 직군, 내 직군을 궁금했던 분들**  
@@ -31,6 +32,10 @@
 <a href="https://github.com/gyoogle/tech-interview-for-developer/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jaeweon/SNS_Hub_DEV" />
 </a>
+<br>
+<br>
+
+## <a href="https://slowsure.tistory.com/74">🏷️ Guidelines</a>
 <br>
 
 ## 📌 Rules for commit message
