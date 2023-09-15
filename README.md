@@ -41,7 +41,7 @@
 <br>
 <br>
 
-## <a href="https://slowsure.tistory.com/74">🏷️ Guidelines</a>
+## <a href="https://slowsure.tistory.com/74">🏷️ Guidelines</a> 
 <br>
 
 ## 📌 Rules for commit message
