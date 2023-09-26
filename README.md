@@ -51,7 +51,7 @@
 <br>
 `ex) 2023-09-05 [Java] Class Delete `
 <br>
-`ex) 2023-09-11 [Java] Class Update `
+`ex) 2023-09-11 [Java] Class content Update `
 
 <br>
 <br>
